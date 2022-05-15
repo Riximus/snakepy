@@ -14,7 +14,7 @@ pip3 install pygame
 ## Running the application
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 ```
-python3 Snake\ Game.py
+python3 Snake\ SnakeGame.py
 ```
 
 The `difficulty` variable can be changed with the values provided in the comment to set the difficulty level.
