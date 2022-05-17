@@ -19,4 +19,10 @@ python SnakeGame.py
 
 The `difficulty` variable can be changed with the values provided in the comment to set the difficulty level.
 
-The rest of the code is properly commented and self explanatory. Tweaks can be made to change the play style or visuals of the game.
+## Cloning
+You are allowed to clone this game for yourself! I recommend using SSH to clone.
+```
+git clone git@github.com:selsayed25/snakepy.git
+```
+
+The rest of the code is properly commented and self explanatory.
